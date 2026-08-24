@@ -16,9 +16,6 @@
 ## Features
 
 - Shows **Minecraft soundtrack / system media / both** in the Now Playing toast
-- **Allowed music apps** settings: dynamically detects installed media apps (music / browser / player) and only lists installed ones
-- "Game rules"-style settings screen: search box, toggles, Done / Cancel
-- macOS **Privacy & Security → Automation** authorization guidance: prompts when unauthorized, greys out when denied, one-click jump to System Settings
 - Independent truncation for title / artist (30 chars each, with ellipsis); no artist means no separator
 - Toast trigger (mutually exclusive, one of three): on track change / on resume after pause / on countdown track switch
 - Instant toast on resume, mimicking vanilla behavior
