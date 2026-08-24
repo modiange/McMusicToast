@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "mcmusic",
+  "version": "${version}",
+  "name": "McMusic Toast Customizer",
+  "description": "Customizes Minecraft's Now Playing music toast and can display system media.",
+  "authors": ["diange"],
+  "license": "GPL-3.0",
+  "environment": "client",
+  "entrypoints": { "client": ["com.diange.mcmusic.client.McMusicClient"] },
+  "mixins": ["mcmusic.mixins.json"],
+  "depends": { "fabricloader": ">=0.19.3", "minecraft": "26.2", "fabric-api": "*" }
+}

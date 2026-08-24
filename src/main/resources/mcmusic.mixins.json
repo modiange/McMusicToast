@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.diange.mcmusic.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "OptionsSubScreenAccessor",
+    "SoundOptionsScreenMixin",
+    "PauseScreenRefreshMixin",
+    "ToastInstanceMixin",
+    "TitleScreenMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
