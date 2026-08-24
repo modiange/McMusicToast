@@ -5,6 +5,8 @@
 > 当前版本为**公开测试（Public Beta）**，仍处于公开测试阶段，**可能存在 bug**。
 > 欢迎在 Issues 中反馈问题或建议。本项目**完全开源**，可自由查看、学习、修改与分发。
 >
+> 📦 **下载公开测试版（beta）：**[McMusicToast beta 下载](https://github.com/modiange/McMusicToast/releases/tag/beta)
+>
 > 📖 English version: [README_EN.md](README_EN.md)
 
 ---

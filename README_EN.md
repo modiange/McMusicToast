@@ -5,6 +5,8 @@
 > This build is a **public beta**. It is **publicly available for testing** and **may contain bugs**.
 > Feedback and suggestions are welcome via Issues. The project is **fully open source** — feel free to read, learn from, modify, and redistribute it.
 >
+> 📦 **Download the public beta:** [McMusicToast beta release](https://github.com/modiange/McMusicToast/releases/tag/beta)
+>
 > 📖 中文版本: [README.md](README.md)
 
 ---
