@@ -1,4 +1,4 @@
-# McMusic Toast Customizer
+# McMusicToast
 
 > **🌟 Public Beta**
 >
@@ -60,13 +60,15 @@ The same screen can also be opened with **F8**.
 
 ## Build
 
-The project targets **Java 25 / Fabric Loader 0.19.3 / Loom 1.17-SNAPSHOT / Fabric API 0.154.2+26.2**.
+The project targets **Java 25 / Fabric Loader 0.19.3 / Loom 1.17-SNAPSHOT / Fabric API 0.154.2+26.2** and ships with the Gradle Wrapper.
 
 ```bash
 ./gradlew build
 ```
 
 Build artifacts are placed in `build/libs/`.
+
+> For ready-to-use builds, download the compiled jar from [Releases](https://github.com/modiange/McMusicToast/releases) and drop it into your `mods/` folder (Fabric Loader and Fabric API required).
 
 ## License
 

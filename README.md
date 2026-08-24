@@ -1,4 +1,4 @@
-# McMusic Toast Customizer
+# McMusicToast
 
 > **🌟 公开测试版本 · Public Beta**
 >
@@ -60,13 +60,15 @@ Java / Fabric 部分代码跨平台通用，只有「系统媒体适配器」按
 
 ## 构建
 
-本工程针对 **Java 25 / Fabric Loader 0.19.3 / Loom 1.17-SNAPSHOT / Fabric API 0.154.2+26.2** 配置。
+本工程针对 **Java 25 / Fabric Loader 0.19.3 / Loom 1.17-SNAPSHOT / Fabric API 0.154.2+26.2** 配置，已内置 Gradle Wrapper。
 
 ```bash
 ./gradlew build
 ```
 
 构建产物位于 `build/libs/`。
+
+> 直接体验请前往 [Releases](https://github.com/modiange/McMusicToast/releases) 下载编译好的 jar，放入 `mods/` 文件夹即可（需先安装 Fabric Loader 与 Fabric API）。
 
 ## 许可
 
