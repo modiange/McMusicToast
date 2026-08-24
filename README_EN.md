@@ -9,6 +9,8 @@
 
 ---
 
+![Features](images/1.png)
+
 ## Features
 
 - Shows **Minecraft soundtrack / system media / both** in the Now Playing toast
@@ -20,11 +22,15 @@
 - Instant toast on resume, mimicking vanilla behavior
 - Config stored at `.minecraft/config/mcmusic.json`
 
+![Introduction](images/2.png)
+
 ## Introduction
 
 McMusic is a **Minecraft 26.2 (Fabric) client-side mod** that customizes the vanilla **Now Playing / Music Toast** and can also display **system media** (the music currently playing on your computer).
 
 Instead of drawing a separate HUD notification, the mod reuses Minecraft's native music-toast system, so it looks and feels exactly like vanilla.
+
+![Intro image](images/3.png)
 
 ## Supported Platforms
 
@@ -65,15 +71,6 @@ Build artifacts are placed in `build/libs/`.
 ## License
 
 This project is open source under the **GPL-3.0 License**. See [LICENSE](LICENSE).
-
-## Screenshots
-
-> Place your images in the `images/` folder, then uncomment the lines below.
-
-<!--
-![Settings screen](images/settings.png)
-![System media toast](images/toast.png)
--->
 
 ## Feedback
 

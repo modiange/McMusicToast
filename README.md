@@ -9,6 +9,8 @@
 
 ---
 
+![功能特性](images/1.png)
+
 ## 功能特性
 
 - 在「正在播放」弹窗中显示 **Minecraft 原声 / 系统媒体 / 两者**
@@ -20,11 +22,15 @@
 - 暂停恢复弹窗瞬显，模仿原版
 - 配置保存在 `.minecraft/config/mcmusic.json`
 
+![简介](images/2.png)
+
 ## 简介
 
 McMusic 是一个 **Minecraft 26.2（Fabric）客户端模组**，它改造游戏原生的「正在播放 / 音乐弹窗（Now Playing Toast）」，并可以**显示系统媒体**（你电脑上正在播放的音乐）。
 
 模组不会自己画一个独立 HUD，而是复用 Minecraft 原生的音乐弹窗体系，因此观感与原版一致。
+
+![简介图](images/3.png)
 
 ## 支持的平台
 
@@ -65,15 +71,6 @@ Java / Fabric 部分代码跨平台通用，只有「系统媒体适配器」按
 ## 许可
 
 本项目基于 **GPL-3.0 许可证** 开源。详见 [LICENSE](LICENSE)。
-
-## 截图
-
-> 把配图放进 `images/` 文件夹后，取消下面注释即可显示。
-
-<!--
-![设置界面](images/settings.png)
-![系统媒体弹窗](images/toast.png)
--->
 
 ## 反馈
 
