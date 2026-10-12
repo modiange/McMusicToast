@@ -1,5 +1,10 @@
 # McMusicToast
 
+> **📦 已归档 · Archived**
+>
+> 本分支对应 **Minecraft 26.2**，已停止功能更新，**仅提供少量安全更新支持**。
+> 最新版本请前往 [main 分支](https://github.com/modiange/McMusicToast)。
+
 > **🌟 公开测试版本 · Public Beta**
 >
 > 当前版本为**公开测试（Public Beta）**，仍处于公开测试阶段，**可能存在 bug**。

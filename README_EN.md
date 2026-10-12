@@ -1,5 +1,10 @@
 # McMusicToast
 
+> **📦 Archived**
+>
+> This branch targets **Minecraft 26.2** and no longer receives feature updates — **only minimal security updates** are provided.
+> For the latest version, see the [main branch](https://github.com/modiange/McMusicToast).
+
 > **🌟 Public Beta**
 >
 > This build is a **public beta**. It is **publicly available for testing** and **may contain bugs**.
